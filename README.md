@@ -7,3 +7,5 @@
 ## 3. Strings
 
 ## 4. Object-Oriented Programming
+
+## 5. Miscellaneous
