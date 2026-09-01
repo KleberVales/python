@@ -15,6 +15,8 @@
 
 ## 3. Strings
 
+### 3.1 Understand machine 
+
 ## 4. Object-Oriented Programming
 
 ## 5. Miscellaneous
