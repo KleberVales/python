@@ -2,6 +2,8 @@
 
 ## 1. Modules and Packages
 
+### 1.1 Import and use modules and packages
+
 ## 2. Exceptions
 
 ## 3. Strings
