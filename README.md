@@ -29,3 +29,5 @@
 ### 4.6 Construct and initialize objects
 
 ## 5. Miscellaneous
+
+### 5.1 Build complex lists using list comprehension
