@@ -33,3 +33,4 @@
 ### 5.1 Build complex lists using list comprehension
 ### 5.2 Embed lambda functions into the code
 ### 5.3 Define and use closures
+### 5.4 Understand basic Input/Output terminology
