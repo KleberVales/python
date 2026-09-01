@@ -17,6 +17,7 @@
 
 ### 3.1 Understand machine representation of characters
 ### 3.2 Operate on strings
+### 3.3 Employ built-in string methods
 
 ## 4. Object-Oriented Programming
 
