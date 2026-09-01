@@ -15,7 +15,7 @@
 
 ## 3. Strings
 
-### 3.1 Understand machine 
+### 3.1 Understand machine representation of characters
 
 ## 4. Object-Oriented Programming
 
