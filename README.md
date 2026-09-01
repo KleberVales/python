@@ -6,6 +6,7 @@
 ### 1.2 Perform evaluations using the math module
 ### 1.3 Generate random values using the random module
 ### 1.4 Discover host platform properties using the platform module
+### 1.5 Create and use user-defined modules and packages
 
 ## 2. Exceptions
 
