@@ -25,5 +25,6 @@
 ### 4.2 Employ class and object properties
 ### 4.3 Equip a class with methods
 ### 4.4 Discover the class structure
+### 4.5 Build a class hierarchy using inheritance
 
 ## 5. Miscellaneous
