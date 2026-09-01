@@ -11,6 +11,7 @@
 ## 2. Exceptions
 
 ### 2.1 Handle errors using Python-defined exceptions
+### 2.2 Extend the Python exceptions hierarchy with self-defined
 
 ## 3. Strings
 
