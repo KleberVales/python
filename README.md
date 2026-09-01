@@ -10,6 +10,8 @@
 
 ## 2. Exceptions
 
+### 2.1 Handle errors using Python-defined exceptions
+
 ## 3. Strings
 
 ## 4. Object-Oriented Programming
