@@ -22,5 +22,6 @@
 ## 4. Object-Oriented Programming
 
 ### 4.1 Understand the Object-Oriented approach
+### 4.2 Employ class and object properties
 
 ## 5. Miscellaneous
