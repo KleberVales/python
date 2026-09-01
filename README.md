@@ -4,6 +4,7 @@
 
 ### 1.1 Import and use modules and packages
 ### 1.2 Perform evaluations using the math module
+### 1.3 Generate random values using the random module
 
 ## 2. Exceptions
 
