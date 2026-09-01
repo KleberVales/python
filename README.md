@@ -3,3 +3,5 @@
 ## 1. Modules and Packages
 
 ## 2. Exceptions
+
+## 3. Strings
