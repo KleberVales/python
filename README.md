@@ -40,7 +40,7 @@
 
 Kleber Vales
 
-Software Engineer | AI Agents
+Software Engineer & AI Agents
 
 Key Knowledge
 
