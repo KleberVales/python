@@ -47,7 +47,7 @@ Domain Driven design | Software Architecture Patterns | Monolith Modular | Micro
 communication | API Rest | Kafka |
 Docker | Kubernetes | DevOps | gradle | Git/GitHub |
 Cloud | Generative AI | AI Agent |
-Database; Scrum
+Database | Scrum |
 
 
 
