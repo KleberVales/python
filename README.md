@@ -44,7 +44,7 @@ Software Engineer | AI Agents
 
 Key Knowledge
 
-Cloud | Microservices | DevOps | Generative AI |
+Cloud | Microservices | DevOps | Generative AI | Agile
 
 
 
