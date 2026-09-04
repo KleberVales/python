@@ -63,19 +63,6 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 * **Cloud & AI:** Cloud Computing, Generative AI, AI Agents
 * **Databases:** Relational & NoSQL Databases
 * **Methodologies:** Scrum
-* **Communication:** Technical Communication
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
