@@ -40,4 +40,4 @@
 
 Kleber Vales
 
-Expertise: Java, Sprig, 
+Expertise: OOP, Java, Sprig, 
