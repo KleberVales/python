@@ -40,16 +40,11 @@
 
 Kleber Vales
 
-Software Engineer with AI Agent
+Software Engineer | AI Agents
 
-Key knowledge
+Key Knowledge
 
-Programming Logic | Programming paradigm | SOLID | Design Patterns | Java | Python | clean code |
-Domain Driven design | Software Architecture Patterns | Monolith Modular | Microservices | Spring |
-communication | API Rest | Kafka |
-Docker | Kubernetes | DevOps | gradle | Git/GitHub |
-Cloud | Generative AI | AI Agent |
-Database | Scrum |
+Cloud | Microservices |
 
 
 
