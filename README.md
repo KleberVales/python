@@ -41,7 +41,7 @@
 Kleber Vales
 
 Expertise: OOP, Java, Sprig, Programming Logic, SOLID, Design Patterns, SQL\
-Proficiency: Procedural programming, Python
+Proficiency: Procedural programming, Python, Docker
 
 
 
