@@ -42,7 +42,8 @@ Kleber Vales
 
 Key knowledge
 
-Programming Logic; Programming paradigm; SOLID; Design Patterns; Java; Python; clean code
+Programming Logic; Programming paradigm; SOLID; Design Patterns; Java; Python; clean code;\
+Domain Driven design; Software Architecture Patterns; Monolith Modular; Microservices; Spring;
 
 
 
