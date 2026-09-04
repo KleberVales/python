@@ -64,6 +64,10 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 * **Databases:** Relational & NoSQL Databases
 * **Methodologies:** Scrum
 
+📫 Let's connect? I'm open to collaborations on Cloud, DevOps, and AI projects
+
+
+
 
 
 
