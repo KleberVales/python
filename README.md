@@ -40,4 +40,4 @@
 
 Kleber Vales
 
-Expertise: OOP, Java, Sprig, Programming Logic, SOLID
+Expertise: OOP, Java, Sprig, Programming Logic, SOLID, Design Patterns
