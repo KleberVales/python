@@ -40,6 +40,8 @@
 
 Kleber Vales
 
+Software Engineer with AI Agent
+
 Key knowledge
 
 Programming Logic | Programming paradigm | SOLID | Design Patterns | Java | Python | clean code |
