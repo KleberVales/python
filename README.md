@@ -42,8 +42,6 @@ Kleber Vales
 
 Software Engineer & AI Agents
 
-Key Knowledge
-
 Cloud | Microservices | DevOps | Generative AI | Agile
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
