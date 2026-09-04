@@ -40,9 +40,9 @@
 
 Kleber Vales
 
-Expertise: OOP, Java, Sprig, Programming Logic, SOLID, Design Patterns, SQL\
-Proficiency: Procedural programming, Python, Docker, Kubernetes, Software Architecture\
-Knowledge: Generative AI, AI Agent, Scrum, Kafka
+Key knowledge
+
+Programming Logic; Programming paradigm; SOLID; Design Patterns; Java; Python; clean code
 
 
 
