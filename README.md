@@ -46,7 +46,7 @@ Programming Logic | Programming paradigm | SOLID | Design Patterns | Java | Pyth
 Domain Driven design | Software Architecture Patterns | Monolith Modular | Microservices | Spring |
 communication | API Rest | Kafka |
 Docker | Kubernetes | DevOps | gradle | Git/GitHub |
-Cloud; Generative AI; AI Agent;\
+Cloud | Generative AI | AI Agent |
 Database; Scrum
 
 
