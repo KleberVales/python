@@ -38,7 +38,7 @@
 
 ---
 
-Kleber Vales
+**Kleber Vales**
 
 Software Engineer & AI Agents
 
@@ -52,6 +52,18 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
+
+### Key Knowledge
+
+* **Programming:** Programming Logic, Programming Paradigms, Java, Python
+* **Software Engineering:** Clean Code, SOLID, Design Patterns, Domain-Driven Design
+* **Architecture:** Software Architecture Patterns, Modular Monoliths, Microservices
+* **Backend:** Spring, REST APIs, Kafka
+* **DevOps & Infrastructure:** Docker, Kubernetes, DevOps, Gradle, Git, GitHub
+* **Cloud & AI:** Cloud Computing, Generative AI, AI Agents
+* **Databases:** Relational & NoSQL Databases
+* **Methodologies:** Scrum
+* **Communication:** Technical Communication
 
 
 
