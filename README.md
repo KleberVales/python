@@ -39,3 +39,5 @@
 ---
 
 Kleber Vales
+
+Expertise: Java, Sprig, 
