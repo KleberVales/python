@@ -40,4 +40,9 @@
 
 Kleber Vales
 
-Expertise: OOP, Java, Sprig, Programming Logic, SOLID, Design Patterns, SQL
+Expertise: OOP, Java, Sprig, Programming Logic, SOLID, Design Patterns, SQL\
+Proficiency: Procedural programming, 
+
+
+
+
